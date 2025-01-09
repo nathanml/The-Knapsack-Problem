@@ -97,3 +97,8 @@ NUM_ITERATIONS: Number of iterations (30)
 NUM_ITEMS: Number of items in problem (12, non-adjustable)
 MUTATION_RATE: Probability of mutation (5)
 ITEMS: Static array of tuples representing items (weight,value)
+
+## What I learned
+1. Genetic representations of problems
+2. Genetic algorithm implementation
+3. Pyplot
